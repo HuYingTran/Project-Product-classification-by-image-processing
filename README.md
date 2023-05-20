@@ -10,5 +10,7 @@ tham khảo file chế tạo mô hình, mẫu báo cáo chi tiết tại link: h
 
 ![image](https://user-images.githubusercontent.com/105936733/169729494-a073a055-8804-4a5f-a41f-ad4b31f85b5d.png)
 
+![image](https://github.com/HuYingTran/Project-Product-classification-by-image-processing/assets/105936733/870a19d7-a53a-4a80-b382-995e95e8a262)
+
 
 ![image](https://user-images.githubusercontent.com/105936733/169729322-e1387c5e-eb75-4477-b1d6-18e974370d0c.png)
